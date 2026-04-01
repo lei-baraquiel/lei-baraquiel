@@ -24,6 +24,7 @@ I am a 2nd year student studying Computer Science, I like to build robots, games
 * [**MoniApp**](https://moni-app-mu.vercel.app/) - A simple budget planner PWA made with **Rust** + **Leptos** (WASM)
 * [**ESP32 Powered 2WD**](https://github.com/lei-baraquiel/ESP32-2-Wheel-Drive) - A 2-wheel drive robot controlled via Web Server from ESP32 using **C++** & **ESP32**
 * [**Raspberry Pi AI Robot Car**](https://github.com/lei-baraquiel/RPAI) - A 2-wheel drive robot with camera vision and ultrasonic sensing. Featuring hand signal recognition and autonomous proximity detection. Using **Python**, **OpenCV** & **Raspberry Pi**
+* [**Mystvale**](https://lei-baraquiel.github.io/mystvaleofficial/) - A terminal-based RPG built with **C** using the **ncurses** library for dynamic window management. Featuring deep character customization (Races/Classes), turn-based combat, and lore-driven exploration. **Note: Rebuilding this in rust**
 
 ---
 
