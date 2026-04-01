@@ -2,7 +2,7 @@
 
 ---
 
-CTO @ Code2Circuit | Robotics Innovator | Aspiring Full Stack & Game Developer  
+Robotics Innovator | Aspiring Full Stack & Game Developer  
 
 I am a 2nd year student studying Computer Science, I like to build robots, games, web & cli tools. Send a message if you want to build something with me!
 
@@ -12,7 +12,7 @@ I am a 2nd year student studying Computer Science, I like to build robots, games
 ⚡ Fun Fact: I sometimes touch grass (to test 2wds) 
   
 📜 Experience:  
-* Co-Founder & Chief Technical Officer (CTO) at Code2Circuit
+* Co-Founder of Code2Circuit
 * Organized and facilitated a hands-on school organization workshop on 2 Wheel Drive building & basic ESP32 Programming using **C++**
 * 9th place at the [UMAK IT Skills Olympics 2025 in Game Development](https://bicol-u.edu.ph/cs-it-buenos-break-through-in-2025-it-skills-olympics-bu-ranks-16-among-60-it-schools-in-ph)
 * Facilitator at the Regional Training in Robotics, Programming & Artificial Intelligence Application in STEM Teaching
@@ -24,7 +24,6 @@ I am a 2nd year student studying Computer Science, I like to build robots, games
 * [**MoniApp**](https://moni-app-mu.vercel.app/) - A simple budget planner PWA made with **Rust** + **Leptos** (WASM)
 * [**ESP32 Powered 2WD**](https://github.com/lei-baraquiel/ESP32-2-Wheel-Drive) - A 2-wheel drive robot controlled via Web Server from ESP32 using **C++** & **ESP32**
 * [**Raspberry Pi AI Robot Car**](https://github.com/lei-baraquiel/RPAI) - A 2-wheel drive robot with camera vision and ultrasonic sensing. Featuring hand signal recognition and autonomous proximity detection. Using **Python**, **OpenCV** & **Raspberry Pi**
-* [**Mystvale**](https://lei-baraquiel.github.io/mystvaleofficial/) - A terminal-based RPG built with **C** using the **ncurses** library for dynamic window management. Featuring deep character customization (Races/Classes), turn-based combat, and lore-driven exploration. **Note: source code is a mess**
 
 ---
 
