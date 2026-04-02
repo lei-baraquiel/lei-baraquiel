@@ -12,7 +12,7 @@ I am a 2nd year student studying Computer Science, I like to build robots, games
 ⚡ Fun Fact: I sometimes touch grass (to test 2wds) 
   
 📜 Experience:  
-* Co-Founder of Code2Circuit
+* Co-Founder & CTO @ Code2Circuit
 * Organized and facilitated a hands-on school organization workshop on 2 Wheel Drive building & basic ESP32 Programming using **C++**
 * 9th place at the [UMAK IT Skills Olympics 2025 in Game Development](https://bicol-u.edu.ph/cs-it-buenos-break-through-in-2025-it-skills-olympics-bu-ranks-16-among-60-it-schools-in-ph)
 * Facilitator at the Regional Training in Robotics, Programming & Artificial Intelligence Application in STEM Teaching
